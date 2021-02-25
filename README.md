@@ -1,7 +1,9 @@
 # rehabilitationProsthesis
 
 First, install the different librairies thanks to the command:
-"pip install requirements.txt"
+'''
+pip install requirements.txt
+'''
 
 This vocal recognition algorithm is using the spectrogram mel of the audio recorded earlier
 
